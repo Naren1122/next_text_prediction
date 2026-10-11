@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints & temp files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Anaconda & IDE settings
+anaconda_projects/
+.vscode/
+.idea/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
